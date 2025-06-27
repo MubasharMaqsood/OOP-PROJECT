@@ -1,0 +1,12 @@
+====== Car Rental Receipt ======
+Customer Name: Ali
+CNIC: 12345-1234567-1
+Date: 2025-06-18 07:34:35
+-----------------------------
+Car Rented: Tesla Model S
+Rental Days: 5
+Rate per Day: $120
+Total Amount: $600
+Thank you for your business!
+=================================
+

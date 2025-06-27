@@ -1,0 +1,12 @@
+====== Car Rental Receipt ======
+Customer Name: Muhammad Bahauddin Shakir
+CNIC: 37406-8898595-1
+Date: 2025-06-18 07:33:14
+-----------------------------
+Car Rented: Toyota Corolla
+Rental Days: 5
+Rate per Day: $50
+Total Amount: $250
+Thank you for your business!
+=================================
+

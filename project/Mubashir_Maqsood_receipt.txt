@@ -1,0 +1,12 @@
+====== Car Rental Receipt ======
+Customer Name: Mubashir Maqsood
+CNIC: 12345-1234567-1
+Date: 2025-06-18 07:34:17
+-----------------------------
+Car Rented: BMW X5
+Rental Days: 5
+Rate per Day: $90
+Total Amount: $450
+Thank you for your business!
+=================================
+

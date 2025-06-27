@@ -1,0 +1,12 @@
+====== Car Rental Receipt ======
+Customer Name: Ilyaas
+CNIC: 12345-1234567-9
+Date: 2025-06-11 16:15:26
+-----------------------------
+Car Rented: Honda Civic ($70/day)
+Rental Days: 7
+Rate per Day: $70
+Total Amount: $490
+Thank you for your business!
+=================================
+
